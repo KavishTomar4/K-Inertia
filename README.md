@@ -24,6 +24,13 @@ K-Inertia strives to empower users with a straightforward and accessible machine
 
 # Documentation
 
+## Installation
+You can use K-Inertia library in your python project by typing the command below in your CLI.
+```
+pip install k-inertia
+```
+***
+
 ## Regression
 ```
 class kinertia.supervised.Regression(learning_rate=0.0001, iterations=1000)
@@ -228,6 +235,13 @@ means = KMeans(k = 3)
 predict = svm.predict(x)
 ```
 ***
+# Credits
+
+## Developer
++ **Kavish Tomar**
+ + GitHub: https://github.com/KavishTomar4
+ + Email: kavishtomar2@gmail.com
+ + Instagram: https://www.instagram.com/_kavishtomar
 
 
 
