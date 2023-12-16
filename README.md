@@ -1,5 +1,5 @@
 # K-Inertia (Kavish Inertia)
-![k-inertia logo](https://github.com/KavishTomar4/K-Learn/assets/32963200/58e100a0-dc80-4a31-b169-686f60e3093a)
+![k-inertia logo](https://github.com/KavishTomar4/K-Inertia/assets/32963200/0910bde6-d851-4068-ba17-4554f99a214d)
 
 **K-Inertia: A User-Friendly Machine Learning Library**
 K-Inertia or ***Kavish Inertia*** is a Python machine learning library designed for simplicity and ease of use. With a focus on user-friendly interfaces, K-Inertia provides implementations of various machine learning algorithms, including regression, logistic regression, k-nearest neighbors, naive Bayes, support vector machines, and k-means clustering.
