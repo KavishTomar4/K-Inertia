@@ -238,7 +238,8 @@ predict = svm.predict(x)
 # Credits
 
 ## Developer
-+ **Kavish Tomar**
+**Kavish Tomar**
+ 
  + GitHub: https://github.com/KavishTomar4
  + Email: kavishtomar2@gmail.com
  + Instagram: https://www.instagram.com/_kavishtomar
